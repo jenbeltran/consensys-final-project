@@ -134,7 +134,7 @@ contract Raffles is Ownable {
     /*
         buyTicket()
         This function allows users to buy tickets for a specific raffle.
-      @param -   This function takes 1 parameter, an raffle ID because the user can only purchase one ticket
+      @param -   This function takes 2 parameters, a raffle ID and number of tickets
        @dev -  The function checks:
             - that the raffle sales are open
             - that the transaction value is sufficient to purchase ticket
