@@ -1,4 +1,4 @@
-# ConsenSys Academy’s 2019 Developer Bootcamp Final Project 
+# ConsenSys Academy’s 2019 Ethereum Developer Bootcamp Final Project 
 
 ## PLEASE NOTE THAT THIS PROJECT IS NOT COMPLETED.
 I was unable to connect my contract and the front-end via web3. You will still be able to walk through the pages but it is not connected to my contract. However, this write-up assumes that this is a fully functioning application.
