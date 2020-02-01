@@ -57,6 +57,4 @@ This project uses Ganache-cli (port: 8545), please change the port if you are us
 
 ###### Metamask
 If your transactions are rejected, please ensure that you reset your metamask account via Settings ⇒ Advanced ⇒ Reset Account.
-# consensys-final-project
-# consensys-final-project
-# consensys-final-project
+
