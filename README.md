@@ -49,12 +49,12 @@ Note: The first account in the Ganache-cli is the owner and the host of the cont
 In order to ‘addRaffle’, ‘endSale’, and ‘generateRaffleWinner’, make sure to switch back to the host account before you hit the button. 
 
 ## If Application does not start
-###### Node
+### Node
 This project was written in React on node version 10.16.0. Make sure to change your node version to 10 before installing node modules.
 
-###### Ganache
+### Ganache
 This project uses Ganache-cli (port: 8545), please change the port if you are using Ganache GUI (port: 7545).
 
-###### Metamask
+### Metamask
 If your transactions are rejected, please ensure that you reset your metamask account via Settings ⇒ Advanced ⇒ Reset Account.
 
