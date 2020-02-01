@@ -14,6 +14,8 @@ The contract has 6 functions: addRaffle, searchForRaffle, buyTicket, howManyTick
 
 addRaffle - This function starts a new raffle game and keeps track of the owner of the contract. The owner of the contract is considered the host and cannot participate in the raffle. The owner can decide the total number of raffle tickets to sell.
 
+searchForRaffle - Participants can search for an existing raffles that they can enter in based on the raffleId.
+
 buyTicket - The raffle must exist and be active before any participants can buy raffle tickets.
 
 howManyTicketsHaveIBought - The buyers can see how many tickets they bought depending on the raffleId.
