@@ -41,6 +41,8 @@ The prize money for the winner of the raffle draw is the total amount collected 
  
 4) Navigate to Clients folder to install node modules and start application
 
+`cd client`
+
 `npm install`
 
 `npm start` 
