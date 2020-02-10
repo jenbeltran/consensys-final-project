@@ -45,6 +45,8 @@ The prize money for the winner of the raffle draw is the total amount collected 
 
 `npm start` 
  
+Front-end is also deployed for visuals: http://consensys-bootcamp.s3-website.ca-central-1.amazonaws.com/
+
 Note: The first account in the Ganache-cli is the owner and the host of the contract. In order to register players for testing purposes, you will have to register them with any other account than the first account listed as the host is not allowed to participate in the raffle draw.
 In order to ‘addRaffle’, ‘endSale’, and ‘generateRaffleWinner’, make sure to switch back to the host account before you hit the button. 
 
